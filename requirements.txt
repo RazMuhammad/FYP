@@ -1,0 +1,15 @@
+langchain-pinecone
+langchain
+langchain-groq
+langchain_community
+sentence_transformers
+fastembed
+langchain-tavily
+streamlit
+pinecone-notebooks
+pinecone-client
+python-dotenv
+pypdf
+docx2txt
+pandas
+pydantic
